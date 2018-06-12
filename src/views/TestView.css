@@ -1,0 +1,11 @@
+.componentContainer{
+    background-color: black;
+    border-color: black;
+    border-width:1px;
+    border-style: solid;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
